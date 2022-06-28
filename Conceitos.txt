@@ -1,0 +1,23 @@
+
+Curso em Vídeo
+
+Conceito Cliente x Servidor
+
+Meu computador ou meu celular que são os clientes  fazem uma interação com o navegador, ele acessa a internet, e a internet
+responde pra qual servidor você vai ser desviado.
+
+O servidor é parecido com minha máquina, tem um sistema operacional, tem pastas e tem diretórios internos, e dentro dessas
+pastas, ele tem arquivos que é o que você está solicitando. Então o servidor faz uma copia e envia para o cliente que é
+você, para o seu navegador, então o seu navegador começa a trabalhar gerando o efeito visual, ou seja, o site que você ver.
+
+
+JavaScript funciona tanto para o cliente como para o servidor. Mas ele surgiu básicamente para o cliente.
+
+
+As três tecnologias caminham juntas:
+
+HTML 
+CSS
+JAVASCRIPT
+
+
